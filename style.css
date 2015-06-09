@@ -4,10 +4,12 @@ body {
 	font-family: Arial;
 	margin:0;
 	padding:0;
+	font-size:22px;
 }
 
 .content {
 	padding: 5em;
+	line-height:30px;
 }
 
 #navbar {
@@ -29,7 +31,7 @@ body {
 
 #header {
 	background-image:url("mic.jpg");
-	padding: 10em;
+	padding: 9.5em;
 	color:white;
 }
 
